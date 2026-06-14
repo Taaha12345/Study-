@@ -1,0 +1,8 @@
+{
+  "name": "Year 7 Math Revision",
+  "description": "A study app for Year 7 Algebra and Probability, featuring structured notes, common mistakes, and interactive flashcards for active recall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
